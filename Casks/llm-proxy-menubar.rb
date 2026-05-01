@@ -2,10 +2,10 @@ cask "llm-proxy-menubar" do
   version "0.1.1"
   sha256 "UPDATE_WITH_ACTUAL_SHA256"
 
-  url "https://github.com/maplezzk/llm-proxy/releases/download/menubar-v#{version}/LLMProxyMenuBar-v#{version}.zip"
+  url "https://github.com/maplezzk/llm-proxy-menubar/releases/download/v#{version}/LLMProxyMenuBar-v#{version}.zip"
   name "LLMProxyMenuBar"
   desc "macOS menu bar app for llm-proxy — multi-protocol LLM proxy"
-  homepage "https://github.com/maplezzk/llm-proxy"
+  homepage "https://github.com/maplezzk/llm-proxy-menubar"
 
   depends_on macos: ">= :ventura"
 
