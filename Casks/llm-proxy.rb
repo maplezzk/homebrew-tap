@@ -1,6 +1,6 @@
 cask "llm-proxy" do
-  version "0.12.2"
-  sha256 "c64ba1def231ab879e6f91cae9aa306c3b66775b7b1b2f2207e2a7c90d082e04"
+  version "0.12.3"
+  sha256 "f5d4acf4f562146f9b4f24398c89ce63d1bc505d8cb407f3c236206bcc0a25a4"
 
   url "https://github.com/maplezzk/llm-proxy/releases/download/v#{version}/LLMProxy-v#{version}.dmg"
   name "LLMProxy"
